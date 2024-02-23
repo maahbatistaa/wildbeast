@@ -8,5 +8,5 @@ Utilizando o Grid facilita a criação de layouts flexíveis e responsivos, redu
 ***Front-end:*** HTML e CSS
 
 ### Demonstração
-[Wildbeast](https://wildbeast-pink.vercel.app)
+[Wildbeast](https://wildbeast-pied.vercel.app)
 
